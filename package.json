@@ -1,0 +1,15 @@
+{
+  "name": "bolt-producer",
+  "version": "1.0.0",
+  "description": "FTS Demo for TOA API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FTS inc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "faker": "^4.1.0"
+  }
+}
